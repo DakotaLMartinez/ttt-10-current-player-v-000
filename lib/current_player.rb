@@ -1,3 +1,3 @@
 def turn_count(board)
-  arr.count( |x| != " ")
+  arr.count{ |x| != " " }
 end
