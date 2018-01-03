@@ -7,5 +7,5 @@ def turn_count(board)
 end
 
 def current_player(board) 
-  binding.pry
+  #binding.pry
 end
